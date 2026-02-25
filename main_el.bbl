@@ -1,0 +1,370 @@
+\begin{thebibliography}{64}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\href}[2]{#2}
+\providecommand{\path}[1]{#1}
+\providecommand{\DOIprefix}{doi:}
+\providecommand{\ArXivprefix}{arXiv:}
+\providecommand{\URLprefix}{URL: }
+\providecommand{\Pubmedprefix}{pmid:}
+\providecommand{\doi}[1]{\href{http://dx.doi.org/#1}{\path{#1}}}
+\providecommand{\Pubmed}[1]{\href{pmid:#1}{\path{#1}}}
+\providecommand{\bibinfo}[2]{#2}
+\ifx\xfnm\relax \def\xfnm[#1]{\unskip,\space#1}\fi
+%Type = Article
+\bibitem[{Abrol et~al.(2021)Abrol, Fu, Salman, Silva, Du, Plis and Calhoun}]{abrol2021deep}
+\bibinfo{author}{Abrol, A.}, \bibinfo{author}{Fu, Z.}, \bibinfo{author}{Salman, M.}, \bibinfo{author}{Silva, R.}, \bibinfo{author}{Du, Y.}, \bibinfo{author}{Plis, S.}, \bibinfo{author}{Calhoun, V.}, \bibinfo{year}{2021}.
+\newblock \bibinfo{title}{Deep learning encodes robust discriminative neuroimaging representations to outperform standard machine learning}.
+\newblock \bibinfo{journal}{Nature communications} \bibinfo{volume}{12}, \bibinfo{pages}{353}.
+\newblock \DOIprefix\doi{10.1038/s41467-020-20655-6}.
+%Type = Article
+\bibitem[{Arbabshirani et~al.(2013)Arbabshirani, Kiehl, Pearlson and Calhoun}]{mohammad_early_paper}
+\bibinfo{author}{Arbabshirani, M.}, \bibinfo{author}{Kiehl, K.}, \bibinfo{author}{Pearlson, G.}, \bibinfo{author}{Calhoun, V.}, \bibinfo{year}{2013}.
+\newblock \bibinfo{title}{Classification of schizophrenia patients based on resting-state functional network connectivity}.
+\newblock \bibinfo{journal}{Frontiers in Neuroscience} \bibinfo{volume}{7}.
+\newblock \DOIprefix\doi{10.3389/fnins.2013.00133}.
+%Type = Article
+\bibitem[{Bachmann et~al.(2023)Bachmann, Anagnostidis and Hofmann}]{scaling_mlp}
+\bibinfo{author}{Bachmann, G.}, \bibinfo{author}{Anagnostidis, S.}, \bibinfo{author}{Hofmann, T.}, \bibinfo{year}{2023}.
+\newblock \bibinfo{title}{Scaling {MLP}s: A tale of inductive bias}.
+\newblock \bibinfo{journal}{arXiv} \DOIprefix\doi{10.48550/arXiv.2306.13575}.
+%Type = Article
+\bibitem[{Bannadabhavi et~al.(2023)Bannadabhavi, Lee, Deng and Li}]{com_tf}
+\bibinfo{author}{Bannadabhavi, A.}, \bibinfo{author}{Lee, S.}, \bibinfo{author}{Deng, W.}, \bibinfo{author}{Li, X.}, \bibinfo{year}{2023}.
+\newblock \bibinfo{title}{Community-aware transformer for autism prediction in {fMRI} connectome}.
+\newblock \bibinfo{journal}{arXiv} \DOIprefix\doi{10.48550/arXiv.2307.10181}.
+%Type = Article
+\bibitem[{Bedel et~al.(2023)Bedel, Sivgin, Dalmaz, Dar and Çukur}]{bolt}
+\bibinfo{author}{Bedel, H.A.}, \bibinfo{author}{Sivgin, I.}, \bibinfo{author}{Dalmaz, O.}, \bibinfo{author}{Dar, S.U.}, \bibinfo{author}{Çukur, T.}, \bibinfo{year}{2023}.
+\newblock \bibinfo{title}{{BolT}: Fused window transformers for {fMRI} time series analysis}.
+\newblock \bibinfo{journal}{Medical Image Analysis} \bibinfo{volume}{88}, \bibinfo{pages}{102841}.
+\newblock \DOIprefix\doi{10.1016/j.media.2023.102841}.
+%Type = Article
+\bibitem[{Bondi et~al.(2023)Bondi, Maggioni, Brambilla and Delvecchio}]{depression_rev}
+\bibinfo{author}{Bondi, E.}, \bibinfo{author}{Maggioni, E.}, \bibinfo{author}{Brambilla, P.}, \bibinfo{author}{Delvecchio, G.}, \bibinfo{year}{2023}.
+\newblock \bibinfo{title}{A systematic review on the potential use of machine learning to classify major depressive disorder from healthy controls using resting state {fMRI} measures}.
+\newblock \bibinfo{journal}{Neuroscience \& Biobehavioral Reviews} \bibinfo{volume}{144}, \bibinfo{pages}{104972}.
+\newblock \DOIprefix\doi{10.1016/j.neubiorev.2022.104972}.
+%Type = Inproceedings
+\bibitem[{Boser et~al.(1992)Boser, Guyon and Vapnik}]{svm}
+\bibinfo{author}{Boser, B.E.}, \bibinfo{author}{Guyon, I.M.}, \bibinfo{author}{Vapnik, V.N.}, \bibinfo{year}{1992}.
+\newblock \bibinfo{title}{A training algorithm for optimal margin classifiers}, in: \bibinfo{booktitle}{Proceedings of the Fifth Annual Workshop on Computational Learning Theory}, \bibinfo{publisher}{Association for Computing Machinery}, \bibinfo{address}{New York, NY, USA}. p. \bibinfo{pages}{144–152}.
+\newblock \DOIprefix\doi{10.1145/130385.130401}.
+%Type = Article
+\bibitem[{Caro et~al.(2023)Caro, de~O.~Fonseca, Averill, Rizvi, Rosati, Cross, Mittal, Zappala, Levine, Dhodapkar, Abdallah and van Dijk}]{brainlm}
+\bibinfo{author}{Caro, J.O.}, \bibinfo{author}{de~O.~Fonseca, A.H.}, \bibinfo{author}{Averill, C.}, \bibinfo{author}{Rizvi, S.A.}, \bibinfo{author}{Rosati, M.}, \bibinfo{author}{Cross, J.L.}, \bibinfo{author}{Mittal, P.}, \bibinfo{author}{Zappala, E.}, \bibinfo{author}{Levine, D.}, \bibinfo{author}{Dhodapkar, R.M.}, \bibinfo{author}{Abdallah, C.G.}, \bibinfo{author}{van Dijk, D.}, \bibinfo{year}{2023}.
+\newblock \bibinfo{title}{{BrainLM}: A foundation model for brain activity recordings}.
+\newblock \bibinfo{journal}{bioRxiv} \DOIprefix\doi{10.1101/2023.09.12.557460}.
+%Type = Article
+\bibitem[{Chekroud et~al.(2024)Chekroud, Hawrilenko, Loho, Bondar, Gueorguieva, Hasan, Kambeitz, Corlett, Koutsouleris, Krumholz, Krystal and Paulus}]{transfer_debunk}
+\bibinfo{author}{Chekroud, A.M.}, \bibinfo{author}{Hawrilenko, M.}, \bibinfo{author}{Loho, H.}, \bibinfo{author}{Bondar, J.}, \bibinfo{author}{Gueorguieva, R.}, \bibinfo{author}{Hasan, A.}, \bibinfo{author}{Kambeitz, J.}, \bibinfo{author}{Corlett, P.R.}, \bibinfo{author}{Koutsouleris, N.}, \bibinfo{author}{Krumholz, H.M.}, \bibinfo{author}{Krystal, J.H.}, \bibinfo{author}{Paulus, M.}, \bibinfo{year}{2024}.
+\newblock \bibinfo{title}{Illusory generalizability of clinical prediction models}.
+\newblock \bibinfo{journal}{Science} \bibinfo{volume}{383}, \bibinfo{pages}{164--167}.
+\newblock \DOIprefix\doi{10.1126/science.adg8538}.
+%Type = Article
+\bibitem[{Cox(1958)}]{lr}
+\bibinfo{author}{Cox, D.R.}, \bibinfo{year}{1958}.
+\newblock \bibinfo{title}{The regression analysis of binary sequences}.
+\newblock \bibinfo{journal}{Journal of the Royal Statistical Society. Series B (Methodological)} \bibinfo{volume}{20}, \bibinfo{pages}{215--242}.
+%Type = Article
+\bibitem[{Cox(1996)}]{afni1}
+\bibinfo{author}{Cox, R.W.}, \bibinfo{year}{1996}.
+\newblock \bibinfo{title}{{AFNI}: Software for analysis and visualization of functional magnetic resonance neuroimages}.
+\newblock \bibinfo{journal}{Computers and Biomedical Research} \bibinfo{volume}{29}, \bibinfo{pages}{162--173}.
+\newblock \DOIprefix\doi{10.1006/cbmr.1996.0014}.
+%Type = Article
+\bibitem[{Cox and Hyde(1997)}]{afni2}
+\bibinfo{author}{Cox, R.W.}, \bibinfo{author}{Hyde, J.S.}, \bibinfo{year}{1997}.
+\newblock \bibinfo{title}{Software tools for analysis and visualization of fmri data}.
+\newblock \bibinfo{journal}{{NMR} in Bio-medicine} \bibinfo{volume}{10}, \bibinfo{pages}{171--178}.
+\newblock \DOIprefix\doi{10.1002/(SICI)1099-1492(199706/08)10:4/5<171::AID-NBM453>3.0.CO;2-L}.
+%Type = Article
+\bibitem[{Cui et~al.(2023)Cui, Dai, Zhu, Kan, Gu, Lukemire, Zhan, He, Guo and Yang}]{BrainGB}
+\bibinfo{author}{Cui, H.}, \bibinfo{author}{Dai, W.}, \bibinfo{author}{Zhu, Y.}, \bibinfo{author}{Kan, X.}, \bibinfo{author}{Gu, A.A.C.}, \bibinfo{author}{Lukemire, J.}, \bibinfo{author}{Zhan, L.}, \bibinfo{author}{He, L.}, \bibinfo{author}{Guo, Y.}, \bibinfo{author}{Yang, C.}, \bibinfo{year}{2023}.
+\newblock \bibinfo{title}{{BrainGB}: A benchmark for brain network analysis with graph neural networks}.
+\newblock \bibinfo{journal}{IEEE Transactions on Medical Imaging} \bibinfo{volume}{42}, \bibinfo{pages}{493--506}.
+\newblock \DOIprefix\doi{10.1109/TMI.2022.3218745}.
+%Type = Article
+\bibitem[{Desikan et~al.(2006)Desikan, Ségonne, Fischl, Quinn, Dickerson, Blacker, Buckner, Dale, Maguire, Hyman, Albert and Killiany}]{dk}
+\bibinfo{author}{Desikan, R.S.}, \bibinfo{author}{Ségonne, F.}, \bibinfo{author}{Fischl, B.}, \bibinfo{author}{Quinn, B.T.}, \bibinfo{author}{Dickerson, B.C.}, \bibinfo{author}{Blacker, D.}, \bibinfo{author}{Buckner, R.L.}, \bibinfo{author}{Dale, A.M.}, \bibinfo{author}{Maguire, R.P.}, \bibinfo{author}{Hyman, B.T.}, \bibinfo{author}{Albert, M.S.}, \bibinfo{author}{Killiany, R.J.}, \bibinfo{year}{2006}.
+\newblock \bibinfo{title}{An automated labeling system for subdividing the human cerebral cortex on {MRI} scans into gyral based regions of interest}.
+\newblock \bibinfo{journal}{NeuroImage} \bibinfo{volume}{31}, \bibinfo{pages}{968--980}.
+\newblock \DOIprefix\doi{10.1016/j.neuroimage.2006.01.021}.
+%Type = Inproceedings
+\bibitem[{Devlin et~al.(2019)Devlin, Chang, Lee and Toutanova}]{bert}
+\bibinfo{author}{Devlin, J.}, \bibinfo{author}{Chang, M.W.}, \bibinfo{author}{Lee, K.}, \bibinfo{author}{Toutanova, K.}, \bibinfo{year}{2019}.
+\newblock \bibinfo{title}{Bert: Pre-training of deep bidirectional transformers for language understanding}, in: \bibinfo{booktitle}{North American Chapter of the Association for Computational Linguistics}.
+\newblock \URLprefix \url{https://api.semanticscholar.org/CorpusID:52967399}.
+%Type = Article
+\bibitem[{Di~Martino et~al.(2014)Di~Martino, Yan, Li, Denio, Castellanos, Alaerts, Anderson, Assaf, Bookheimer, Dapretto, Deen, Delmonte, Dinstein, Ertl-Wagner, Fair, Gallagher, Kennedy, Keown, Keysers, Lainhart, Lord, Luna, Menon, Minshew, Monk, Mueller, M\"uller, Nebel, Nigg, O'Hearn, Pelphrey, Peltier, Rudie, Sunaert, Thioux, Tyszka, Uddin, Verhoeven, Wenderoth, Wiggins, Mostofsky and Milham}]{abide}
+\bibinfo{author}{Di~Martino, A.}, \bibinfo{author}{Yan, C.G.}, \bibinfo{author}{Li, Q.}, \bibinfo{author}{Denio, E.}, \bibinfo{author}{Castellanos, F.X.}, \bibinfo{author}{Alaerts, K.}, \bibinfo{author}{Anderson, J.S.}, \bibinfo{author}{Assaf, M.}, \bibinfo{author}{Bookheimer, S.Y.}, \bibinfo{author}{Dapretto, M.}, \bibinfo{author}{Deen, B.}, \bibinfo{author}{Delmonte, S.}, \bibinfo{author}{Dinstein, I.}, \bibinfo{author}{Ertl-Wagner, B.}, \bibinfo{author}{Fair, D.A.}, \bibinfo{author}{Gallagher, L.}, \bibinfo{author}{Kennedy, D.P.}, \bibinfo{author}{Keown, C.L.}, \bibinfo{author}{Keysers, C.}, \bibinfo{author}{Lainhart, J.E.}, \bibinfo{author}{Lord, C.}, \bibinfo{author}{Luna, B.}, \bibinfo{author}{Menon, V.}, \bibinfo{author}{Minshew, N.J.}, \bibinfo{author}{Monk, C.S.}, \bibinfo{author}{Mueller, S.}, \bibinfo{author}{M\"uller, R.A.}, \bibinfo{author}{Nebel, M.B.}, \bibinfo{author}{Nigg, J.T.}, \bibinfo{author}{O'Hearn, K.}, \bibinfo{author}{Pelphrey, K.A.}, \bibinfo{author}{Peltier, S.J.}, \bibinfo{author}{Rudie, J.D.}, \bibinfo{author}{Sunaert, S.}, \bibinfo{author}{Thioux, M.}, \bibinfo{author}{Tyszka, J.M.}, \bibinfo{author}{Uddin, L.Q.}, \bibinfo{author}{Verhoeven, J.S.}, \bibinfo{author}{Wenderoth, N.}, \bibinfo{author}{Wiggins, J.L.}, \bibinfo{author}{Mostofsky, S.H.}, \bibinfo{author}{Milham, M.P.}, \bibinfo{year}{2014}.
+\newblock \bibinfo{title}{The autism brain imaging data exchange: towards a large-scale evaluation of the intrinsic brain architecture in autism}.
+\newblock \bibinfo{journal}{Molecular Psychiatry} \bibinfo{volume}{19}, \bibinfo{pages}{659--667}.
+\newblock \DOIprefix\doi{10.1038/mp.2013.78}.
+%Type = Article
+\bibitem[{Du et~al.(2020)Du, Fu, Sui, Gao, Xing, Lin, Salman, Abrol, Rahaman, Chen et~al.}]{du2020neuromark}
+\bibinfo{author}{Du, Y.}, \bibinfo{author}{Fu, Z.}, \bibinfo{author}{Sui, J.}, \bibinfo{author}{Gao, S.}, \bibinfo{author}{Xing, Y.}, \bibinfo{author}{Lin, D.}, \bibinfo{author}{Salman, M.}, \bibinfo{author}{Abrol, A.}, \bibinfo{author}{Rahaman, M.A.}, \bibinfo{author}{Chen, J.}, et~al., \bibinfo{year}{2020}.
+\newblock \bibinfo{title}{Neuromark: An automated and adaptive ica based pipeline to identify reproducible fmri markers of brain disorders}.
+\newblock \bibinfo{journal}{NeuroImage: Clinical} \bibinfo{volume}{28}, \bibinfo{pages}{102375}.
+%Type = Article
+\bibitem[{Dvornek et~al.(2017)Dvornek, Ventola, Pelphrey and Duncan}]{dvornek}
+\bibinfo{author}{Dvornek, N.C.}, \bibinfo{author}{Ventola, P.}, \bibinfo{author}{Pelphrey, K.A.}, \bibinfo{author}{Duncan, J.S.}, \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{Identifying autism from resting-state {fMRI} using long short-term memory networks}.
+\newblock \bibinfo{journal}{Machine learning in medical imaging} \bibinfo{volume}{10541}, \bibinfo{pages}{362--370}.
+\newblock \DOIprefix\doi{10.1007/978-3-319-67389-9_42}.
+%Type = Article
+\bibitem[{de~Filippis et~al.(2019)de~Filippis, Carbone, Gaetano, Bruni, Pugliese, Segura-Garcia and De~Fazio}]{schizophrenia_rev}
+\bibinfo{author}{de~Filippis, R.}, \bibinfo{author}{Carbone, E.A.}, \bibinfo{author}{Gaetano, R.}, \bibinfo{author}{Bruni, A.}, \bibinfo{author}{Pugliese, V.}, \bibinfo{author}{Segura-Garcia, C.}, \bibinfo{author}{De~Fazio, P.}, \bibinfo{year}{2019}.
+\newblock \bibinfo{title}{Machine learning techniques in a structural and functional {MRI} diagnostic approach in schizophrenia: a systematic review}.
+\newblock \bibinfo{journal}{Neuropsychiatric disease and treatment} , \bibinfo{pages}{1605--1627}\DOIprefix\doi{10.2147/NDT.S202418}.
+%Type = Article
+\bibitem[{Fix and Hodges(1989)}]{knn}
+\bibinfo{author}{Fix, E.}, \bibinfo{author}{Hodges, J.L.}, \bibinfo{year}{1989}.
+\newblock \bibinfo{title}{Discriminatory analysis. nonparametric discrimination: Consistency properties}.
+\newblock \bibinfo{journal}{International Statistical Review / Revue Internationale de Statistique} \bibinfo{volume}{57}, \bibinfo{pages}{238--247}.
+%Type = Article
+\bibitem[{Fu et~al.(2019)Fu, Caprihan, Chen, Du, Adair, Sui, Rosenberg and Calhoun}]{fu2019}
+\bibinfo{author}{Fu, Z.}, \bibinfo{author}{Caprihan, A.}, \bibinfo{author}{Chen, J.}, \bibinfo{author}{Du, Y.}, \bibinfo{author}{Adair, J.C.}, \bibinfo{author}{Sui, J.}, \bibinfo{author}{Rosenberg, G.A.}, \bibinfo{author}{Calhoun, V.D.}, \bibinfo{year}{2019}.
+\newblock \bibinfo{title}{Altered static and dynamic functional network connectivity in alzheimer's disease and subcortical ischemic vascular disease: shared and specific brain connectivity abnormalities}.
+\newblock \bibinfo{journal}{Human Brain Mapping} \bibinfo{volume}{40}, \bibinfo{pages}{3203--3221}.
+\newblock \DOIprefix\doi{10.1002/hbm.24591}.
+%Type = Article
+\bibitem[{Glasser et~al.(2013)Glasser, Sotiropoulos, Wilson, Coalson, Fischl, Andersson, Xu, Jbabdi, Webster, Polimeni, {Van Essen} and Jenkinson}]{glasser}
+\bibinfo{author}{Glasser, M.F.}, \bibinfo{author}{Sotiropoulos, S.N.}, \bibinfo{author}{Wilson, J.A.}, \bibinfo{author}{Coalson, T.S.}, \bibinfo{author}{Fischl, B.}, \bibinfo{author}{Andersson, J.L.}, \bibinfo{author}{Xu, J.}, \bibinfo{author}{Jbabdi, S.}, \bibinfo{author}{Webster, M.}, \bibinfo{author}{Polimeni, J.R.}, \bibinfo{author}{{Van Essen}, D.C.}, \bibinfo{author}{Jenkinson, M.}, \bibinfo{year}{2013}.
+\newblock \bibinfo{title}{The minimal preprocessing pipelines for the human connectome project}.
+\newblock \bibinfo{journal}{NeuroImage} \bibinfo{volume}{80}, \bibinfo{pages}{105--124}.
+\newblock \DOIprefix\doi{10.1016/j.neuroimage.2013.04.127}.
+%Type = Article
+\bibitem[{Hochreiter and Schmidhuber(1997)}]{lstm}
+\bibinfo{author}{Hochreiter, S.}, \bibinfo{author}{Schmidhuber, J.}, \bibinfo{year}{1997}.
+\newblock \bibinfo{title}{{Long Short-Term Memory}}.
+\newblock \bibinfo{journal}{Neural Computation} \bibinfo{volume}{9}, \bibinfo{pages}{1735--1780}.
+\newblock \DOIprefix\doi{10.1162/neco.1997.9.8.1735}.
+%Type = Article
+\bibitem[{Huang et~al.(2021)Huang, Xiao and Wu}]{4Dmodel}
+\bibinfo{author}{Huang, X.}, \bibinfo{author}{Xiao, J.}, \bibinfo{author}{Wu, C.}, \bibinfo{year}{2021}.
+\newblock \bibinfo{title}{Design of deep learning model for task-evoked {fMRI} data classification}.
+\newblock \bibinfo{journal}{Computational Intelligence and Neuroscience} \bibinfo{volume}{2021}, \bibinfo{pages}{6660866}.
+\newblock \DOIprefix\doi{10.1155/2021/6660866}.
+%Type = Article
+\bibitem[{Jenkinson et~al.(2012)Jenkinson, Beckmann, Behrens, Woolrich and Smith}]{fsl}
+\bibinfo{author}{Jenkinson, M.}, \bibinfo{author}{Beckmann, C.F.}, \bibinfo{author}{Behrens, T.E.}, \bibinfo{author}{Woolrich, M.W.}, \bibinfo{author}{Smith, S.M.}, \bibinfo{year}{2012}.
+\newblock \bibinfo{title}{{FSL}}.
+\newblock \bibinfo{journal}{NeuroImage} \bibinfo{volume}{62}, \bibinfo{pages}{782--790}.
+\newblock \DOIprefix\doi{10.1016/j.neuroimage.2011.09.015}.
+%Type = Article
+\bibitem[{John et~al.(2022)John, Sawyer, Srinivasan, Müller, Munn and Shine}]{dst}
+\bibinfo{author}{John, Y.J.}, \bibinfo{author}{Sawyer, K.S.}, \bibinfo{author}{Srinivasan, K.}, \bibinfo{author}{Müller, E.J.}, \bibinfo{author}{Munn, B.R.}, \bibinfo{author}{Shine, J.M.}, \bibinfo{year}{2022}.
+\newblock \bibinfo{title}{{It’s about time: Linking dynamical systems with human neuroimaging to understand the brain}}.
+\newblock \bibinfo{journal}{Network Neuroscience} \bibinfo{volume}{6}, \bibinfo{pages}{960--979}.
+\newblock \DOIprefix\doi{10.1162/netn_a_00230}.
+%Type = Article
+\bibitem[{Kan et~al.(2022a)Kan, Cui, Lukemire, Guo and Yang}]{fbnetgen}
+\bibinfo{author}{Kan, X.}, \bibinfo{author}{Cui, H.}, \bibinfo{author}{Lukemire, J.}, \bibinfo{author}{Guo, Y.}, \bibinfo{author}{Yang, C.}, \bibinfo{year}{2022}a.
+\newblock \bibinfo{title}{{FBNETGEN}: Task-aware {GNN}-based {fMRI} analysis via functional brain network generation}.
+\newblock \bibinfo{journal}{arXiv} \DOIprefix\doi{10.48550/arXiv.2205.12465}.
+%Type = Article
+\bibitem[{Kan et~al.(2022b)Kan, Dai, Cui, Zhang, Guo and Yang}]{bnt}
+\bibinfo{author}{Kan, X.}, \bibinfo{author}{Dai, W.}, \bibinfo{author}{Cui, H.}, \bibinfo{author}{Zhang, Z.}, \bibinfo{author}{Guo, Y.}, \bibinfo{author}{Yang, C.}, \bibinfo{year}{2022}b.
+\newblock \bibinfo{title}{Brain network transformer}.
+\newblock \bibinfo{journal}{arXiv} \DOIprefix\doi{10.48550/arXiv.2210.06681}.
+%Type = Article
+\bibitem[{Kawahara et~al.(2017)Kawahara, Brown, Miller, Booth, Chau, Grunau, Zwicker and Hamar-neh}]{brainnetcnn}
+\bibinfo{author}{Kawahara, J.}, \bibinfo{author}{Brown, C.J.}, \bibinfo{author}{Miller, S.P.}, \bibinfo{author}{Booth, B.G.}, \bibinfo{author}{Chau, V.}, \bibinfo{author}{Grunau, R.E.}, \bibinfo{author}{Zwicker, J.G.}, \bibinfo{author}{Hamar-neh, G.}, \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{{BrainNetCNN}: Convolutional neural networks for brain networks; towards predicting neurodevelopment}.
+\newblock \bibinfo{journal}{NeuroImage} \bibinfo{volume}{146}, \bibinfo{pages}{1038--1049}.
+\newblock \DOIprefix\doi{10.1016/j.neuroimage.2016.09.046}.
+%Type = Article
+\bibitem[{Kazi et~al.(2023)Kazi, Cosmo, Ahmadi, Navab and Bronstein}]{DGM}
+\bibinfo{author}{Kazi, A.}, \bibinfo{author}{Cosmo, L.}, \bibinfo{author}{Ahmadi, S.A.}, \bibinfo{author}{Navab, N.}, \bibinfo{author}{Bronstein, M.M.}, \bibinfo{year}{2023}.
+\newblock \bibinfo{title}{Differentiable graph module ({DGM}) for graph convolutional networks}.
+\newblock \bibinfo{journal}{{IEEE} Transactions on Pattern Analysis and Machine Intelligence} \bibinfo{volume}{45}, \bibinfo{pages}{1606–1617}.
+\newblock \DOIprefix\doi{10.1109/tpami.2022.3170249}.
+%Type = Article
+\bibitem[{Keator et~al.(2016)Keator, {van Erp}, Turner, Glover, Mueller, Liu, Voyvodic, Rasmussen, Calhoun, Lee, Toga, McEwen, Ford, Mathalon, Diaz, O'Leary, {Jeremy Bockholt}, Gadde, Preda, Wible, Stern, Belger, McCarthy, Ozyurt and Potkin}]{fbirn}
+\bibinfo{author}{Keator, D.B.}, \bibinfo{author}{{van Erp}, T.G.}, \bibinfo{author}{Turner, J.A.}, \bibinfo{author}{Glover, G.H.}, \bibinfo{author}{Mueller, B.A.}, \bibinfo{author}{Liu, T.T.}, \bibinfo{author}{Voyvodic, J.T.}, \bibinfo{author}{Rasmussen, J.}, \bibinfo{author}{Calhoun, V.D.}, \bibinfo{author}{Lee, H.J.}, \bibinfo{author}{Toga, A.W.}, \bibinfo{author}{McEwen, S.}, \bibinfo{author}{Ford, J.M.}, \bibinfo{author}{Mathalon, D.H.}, \bibinfo{author}{Diaz, M.}, \bibinfo{author}{O'Leary, D.S.}, \bibinfo{author}{{Jeremy Bockholt}, H.}, \bibinfo{author}{Gadde, S.}, \bibinfo{author}{Preda, A.}, \bibinfo{author}{Wible, C.G.}, \bibinfo{author}{Stern, H.S.}, \bibinfo{author}{Belger, A.}, \bibinfo{author}{McCarthy, G.}, \bibinfo{author}{Ozyurt, B.}, \bibinfo{author}{Potkin, S.G.}, \bibinfo{year}{2016}.
+\newblock \bibinfo{title}{The function biomedical informatics research network data repository}.
+\newblock \bibinfo{journal}{NeuroImage} \bibinfo{volume}{124}, \bibinfo{pages}{1074--1079}.
+\newblock \DOIprefix\doi{10.1016/j.neuroimage.2015.09.003}.
+%Type = Article
+\bibitem[{Khosla et~al.(2019)Khosla, Jamison, Ngo, Kuceyeski and Sabuncu}]{ml_in_fmri}
+\bibinfo{author}{Khosla, M.}, \bibinfo{author}{Jamison, K.}, \bibinfo{author}{Ngo, G.H.}, \bibinfo{author}{Kuceyeski, A.}, \bibinfo{author}{Sabuncu, M.R.}, \bibinfo{year}{2019}.
+\newblock \bibinfo{title}{Machine learning in resting-state fmri analysis}.
+\newblock \bibinfo{journal}{Magnetic Resonance Imaging} \bibinfo{volume}{64}, \bibinfo{pages}{101--121}.
+\newblock \DOIprefix\doi{10.1016/j.mri.2019.05.031}. \bibinfo{note}{artificial Intelligence in MRI}.
+%Type = Article
+\bibitem[{Kim et~al.(2023)Kim, Kwon, Joo, Bae, Lee, Jung, Yoo, Cha and Moon}]{swiFT}
+\bibinfo{author}{Kim, P.Y.}, \bibinfo{author}{Kwon, J.}, \bibinfo{author}{Joo, S.}, \bibinfo{author}{Bae, S.}, \bibinfo{author}{Lee, D.}, \bibinfo{author}{Jung, Y.}, \bibinfo{author}{Yoo, S.}, \bibinfo{author}{Cha, J.}, \bibinfo{author}{Moon, T.}, \bibinfo{year}{2023}.
+\newblock \bibinfo{title}{{SwiFT}: Swin 4d {fMRI} transformer}.
+\newblock \bibinfo{journal}{arXiv} \DOIprefix\doi{10.48550/arXiv.2307.05916}.
+%Type = Article
+\bibitem[{Kipf and Welling(2016)}]{GCN}
+\bibinfo{author}{Kipf, T.N.}, \bibinfo{author}{Welling, M.}, \bibinfo{year}{2016}.
+\newblock \bibinfo{title}{Semi-supervised classification with graph convolutional networks}.
+\newblock \bibinfo{journal}{arXiv} \DOIprefix\doi{10.48550/arXiv.1609.02907}.
+%Type = Article
+\bibitem[{Kreuzer et~al.(2021)Kreuzer, Beaini, Hamilton, Létourneau and Tossou}]{SAN}
+\bibinfo{author}{Kreuzer, D.}, \bibinfo{author}{Beaini, D.}, \bibinfo{author}{Hamilton, W.L.}, \bibinfo{author}{Létourneau, V.}, \bibinfo{author}{Tossou, P.}, \bibinfo{year}{2021}.
+\newblock \bibinfo{title}{Rethinking graph transformers with spectral attention}.
+\newblock \bibinfo{journal}{arXiv} \DOIprefix\doi{10.48550/arXiv.2106.03893}.
+%Type = Article
+\bibitem[{Kundu et~al.(2017)Kundu, Voon, Balchandani, Lombardo, Poser and Bandettini}]{fmri_bold}
+\bibinfo{author}{Kundu, P.}, \bibinfo{author}{Voon, V.}, \bibinfo{author}{Balchandani, P.}, \bibinfo{author}{Lombardo, M.V.}, \bibinfo{author}{Poser, B.A.}, \bibinfo{author}{Bandettini, P.A.}, \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{Multi-echo fmri: A review of applications in {fMRI} denoising and analysis of bold signals}.
+\newblock \bibinfo{journal}{NeuroImage} \bibinfo{volume}{154}, \bibinfo{pages}{59--80}.
+\newblock \DOIprefix\doi{10.1016/j.neuroimage.2017.03.033}. \bibinfo{note}{cleaning up the fMRI time series: Mitigating noise with advanced acquisition and correction strategies}.
+%Type = Article
+\bibitem[{Lewis et~al.(2022)Lewis, Miller, Gazula and Calhoun}]{cosaliency}
+\bibinfo{author}{Lewis, N.}, \bibinfo{author}{Miller, R.}, \bibinfo{author}{Gazula, H.}, \bibinfo{author}{Calhoun, V.}, \bibinfo{year}{2022}.
+\newblock \bibinfo{title}{Fine temporal brain network structure modularizes and localizes differently in men and women: Insights from a novel explainability framework}.
+\newblock \bibinfo{journal}{bioRxiv} \DOIprefix\doi{10.1101/2022.06.09.495551}.
+%Type = Article
+\bibitem[{Li et~al.(2021)Li, Zhou, Dvornek, Zhang, Gao, Zhuang, Scheinost, Staib, Ventola and Duncan}]{BrainGNN}
+\bibinfo{author}{Li, X.}, \bibinfo{author}{Zhou, Y.}, \bibinfo{author}{Dvornek, N.}, \bibinfo{author}{Zhang, M.}, \bibinfo{author}{Gao, S.}, \bibinfo{author}{Zhuang, J.}, \bibinfo{author}{Scheinost, D.}, \bibinfo{author}{Staib, L.H.}, \bibinfo{author}{Ventola, P.}, \bibinfo{author}{Duncan, J.S.}, \bibinfo{year}{2021}.
+\newblock \bibinfo{title}{{BrainGNN}: Interpretable brain graph neural network for {fMRI} analysis}.
+\newblock \bibinfo{journal}{Medical Image Analysis} \bibinfo{volume}{74}, \bibinfo{pages}{102233}.
+\newblock \DOIprefix\doi{10.1016/j.media.2021.102233}.
+%Type = Article
+\bibitem[{Liu et~al.(2021a)Liu, Li and Hu}]{autism_rev}
+\bibinfo{author}{Liu, M.}, \bibinfo{author}{Li, B.}, \bibinfo{author}{Hu, D.}, \bibinfo{year}{2021}a.
+\newblock \bibinfo{title}{Autism spectrum disorder studies using {fMRI} data and machine learning: A review}.
+\newblock \bibinfo{journal}{Frontiers in Neuroscience} \bibinfo{volume}{15}.
+\newblock \DOIprefix\doi{10.3389/fnins.2021.697870}.
+%Type = Article
+\bibitem[{Liu et~al.(2021b)Liu, Lin, Cao, Hu, Wei, Zhang, Lin and Guo}]{SwinT}
+\bibinfo{author}{Liu, Z.}, \bibinfo{author}{Lin, Y.}, \bibinfo{author}{Cao, Y.}, \bibinfo{author}{Hu, H.}, \bibinfo{author}{Wei, Y.}, \bibinfo{author}{Zhang, Z.}, \bibinfo{author}{Lin, S.}, \bibinfo{author}{Guo, B.}, \bibinfo{year}{2021}b.
+\newblock \bibinfo{title}{Swin transformer: Hierarchical vision transformer using shifted windows}.
+\newblock \bibinfo{journal}{arXiv} \DOIprefix\doi{10.48550/arXiv.2103.14030}.
+%Type = Article
+\bibitem[{Mahmood et~al.(2021)Mahmood, Fu, Calhoun and Plis}]{mahmood2021brain}
+\bibinfo{author}{Mahmood, U.}, \bibinfo{author}{Fu, Z.}, \bibinfo{author}{Calhoun, V.}, \bibinfo{author}{Plis, S.}, \bibinfo{year}{2021}.
+\newblock \bibinfo{title}{Brain dynamics via cumulative auto-regressive self-at-tention}.
+\newblock \bibinfo{journal}{arXiv} \DOIprefix\doi{10.48550/arXiv.2111.01271}.
+%Type = Inproceedings
+\bibitem[{Mahmood et~al.(2023)Mahmood, Fu, Calhoun and Plis}]{mahmood2023glacier}
+\bibinfo{author}{Mahmood, U.}, \bibinfo{author}{Fu, Z.}, \bibinfo{author}{Calhoun, V.}, \bibinfo{author}{Plis, S.}, \bibinfo{year}{2023}.
+\newblock \bibinfo{title}{Glacier: glass-box transformer for interpretable dynamic neuroimaging}, in: \bibinfo{booktitle}{2023 {IEEE} International Conference on Acoustics, Speech and Signal Processing ({ICASSP})}, \bibinfo{organization}{{IEEE}}. pp. \bibinfo{pages}{1--5}.
+\newblock \URLprefix \url{https://ieeexplore.ieee.org/document/10097126}.
+%Type = Article
+\bibitem[{Mahmood et~al.(2022)Mahmood, Fu, Ghosh, Calhoun and Plis}]{dice}
+\bibinfo{author}{Mahmood, U.}, \bibinfo{author}{Fu, Z.}, \bibinfo{author}{Ghosh, S.}, \bibinfo{author}{Calhoun, V.}, \bibinfo{author}{Plis, S.}, \bibinfo{year}{2022}.
+\newblock \bibinfo{title}{Through the looking glass: Deep interpretable dynamic directed connectivity in resting {fMRI}}.
+\newblock \bibinfo{journal}{NeuroImage} \bibinfo{volume}{264}, \bibinfo{pages}{119737}.
+\newblock \DOIprefix\doi{10.1016/j.neuroimage.2022.119737}.
+%Type = Inproceedings
+\bibitem[{Mahmood et~al.(2020)Mahmood, Rahman, Fedorov, Lewis, Fu, Calhoun and Plis}]{milc}
+\bibinfo{author}{Mahmood, U.}, \bibinfo{author}{Rahman, M.M.}, \bibinfo{author}{Fedorov, A.}, \bibinfo{author}{Lewis, N.}, \bibinfo{author}{Fu, Z.}, \bibinfo{author}{Calhoun, V.D.}, \bibinfo{author}{Plis, S.M.}, \bibinfo{year}{2020}.
+\newblock \bibinfo{title}{Whole {MILC}: Generalizing learned dynamics across tasks, datasets, and populations}, in: \bibinfo{booktitle}{Medical Image Computing and Computer Assisted Intervention -- {MICCAI} 2020}, \bibinfo{publisher}{Springer International Publishing}, \bibinfo{address}{Cham}. pp. \bibinfo{pages}{407--417}.
+%Type = Inproceedings
+\bibitem[{Malkiel et~al.(2022)Malkiel, Rosenman, Wolf and Hendler}]{tff}
+\bibinfo{author}{Malkiel, I.}, \bibinfo{author}{Rosenman, G.}, \bibinfo{author}{Wolf, L.}, \bibinfo{author}{Hendler, T.}, \bibinfo{year}{2022}.
+\newblock \bibinfo{title}{Self-supervised transformers for {fMRI} representation}, in: \bibinfo{booktitle}{Proceedings of The 5th International Conference on Medical Imaging with Deep Learning}, \bibinfo{publisher}{{PMLR}}. pp. \bibinfo{pages}{895--913}.
+\newblock \DOIprefix\doi{10.48550/arXiv.2112.05761}.
+%Type = Article
+\bibitem[{Pedregosa et~al.(2011)Pedregosa, Varoquaux, Gramfort, Michel, Thirion, Grisel, Blondel, Prettenhofer, Weiss, Dubourg, Vanderplas, Passos, Cournapeau, Brucher, Perrot and Duchesnay}]{sklearn}
+\bibinfo{author}{Pedregosa, F.}, \bibinfo{author}{Varoquaux, G.}, \bibinfo{author}{Gramfort, A.}, \bibinfo{author}{Michel, V.}, \bibinfo{author}{Thirion, B.}, \bibinfo{author}{Grisel, O.}, \bibinfo{author}{Blondel, M.}, \bibinfo{author}{Prettenhofer, P.}, \bibinfo{author}{Weiss, R.}, \bibinfo{author}{Dubourg, V.}, \bibinfo{author}{Vanderplas, J.}, \bibinfo{author}{Passos, A.}, \bibinfo{author}{Cournapeau, D.}, \bibinfo{author}{Brucher, M.}, \bibinfo{author}{Perrot, M.}, \bibinfo{author}{Duchesnay, E.}, \bibinfo{year}{2011}.
+\newblock \bibinfo{title}{Scikit-learn: Machine learning in {P}ython}.
+\newblock \bibinfo{journal}{Journal of Machine Learning Research} \bibinfo{volume}{12}, \bibinfo{pages}{2825--2830}.
+\newblock \DOIprefix\doi{10.5555/1953048.2078195}.
+%Type = Article
+\bibitem[{Petersen et~al.(2010)Petersen, Aisen, Beckett, Donohue, Gamst, Harvey, Jack, Jagust, Shaw, Toga, Trojanowski and Weiner}]{adni}
+\bibinfo{author}{Petersen, R.C.}, \bibinfo{author}{Aisen, P.S.}, \bibinfo{author}{Beckett, L.A.}, \bibinfo{author}{Donohue, M.C.}, \bibinfo{author}{Gamst, A.C.}, \bibinfo{author}{Harvey, D.J.}, \bibinfo{author}{Jack, C.R.}, \bibinfo{author}{Jagust, W.J.}, \bibinfo{author}{Shaw, L.M.}, \bibinfo{author}{Toga, A.W.}, \bibinfo{author}{Trojanowski, J.Q.}, \bibinfo{author}{Weiner, M.W.}, \bibinfo{year}{2010}.
+\newblock \bibinfo{title}{Alz-heimer's disease neuroimaging initiative ({ADNI})}.
+\newblock \bibinfo{journal}{Neurology} \bibinfo{volume}{74}, \bibinfo{pages}{201--209}.
+\newblock \DOIprefix\doi{10.1212/WNL.0b013e3181cb3e25}.
+%Type = Inproceedings
+\bibitem[{Rish et~al.(2009)Rish, Thyreau, Thirion, Plaze, Paillere-martinot, Martelli, Martinot, Poline and Cecchi}]{cecchi_early_model}
+\bibinfo{author}{Rish, I.}, \bibinfo{author}{Thyreau, B.}, \bibinfo{author}{Thirion, B.}, \bibinfo{author}{Plaze, M.}, \bibinfo{author}{Paillere-martinot, M.l.}, \bibinfo{author}{Martelli, C.}, \bibinfo{author}{Martinot, J.l.}, \bibinfo{author}{Poline, J.b.}, \bibinfo{author}{Cecchi, G.}, \bibinfo{year}{2009}.
+\newblock \bibinfo{title}{Discriminative network models of schizophrenia}, in: \bibinfo{booktitle}{Advances in Neural Information Processing Systems}, \bibinfo{publisher}{Curran Associates, Inc.}
+\newblock \URLprefix \url{https://proceedings.neurips.cc/paper_files/paper/2009/file/788d986905533aba051261497ecffcbb-Paper.pdf}.
+%Type = Article
+\bibitem[{Rubin et~al.(1998)Rubin, Storandt, Miller, Kinscherf, Grant, Morris and Berg}]{oasis}
+\bibinfo{author}{Rubin, E.H.}, \bibinfo{author}{Storandt, M.}, \bibinfo{author}{Miller, J.P.}, \bibinfo{author}{Kinscherf, D.A.}, \bibinfo{author}{Grant, E.A.}, \bibinfo{author}{Morris, J.C.}, \bibinfo{author}{Berg, L.}, \bibinfo{year}{1998}.
+\newblock \bibinfo{title}{{A Prospective Study of Cognitive Function and Onset of Dementia in Cognitively Healthy Elders}}.
+\newblock \bibinfo{journal}{Archives of Neurology} \bibinfo{volume}{55}, \bibinfo{pages}{395--401}.
+\newblock \DOIprefix\doi{10.1001/archneur.55.3.395}.
+%Type = Article
+\bibitem[{Schaefer et~al.(2017)Schaefer, Kong, Gordon, Laumann, Zuo, Holmes, Eickhoff and Yeo}]{schaefer}
+\bibinfo{author}{Schaefer, A.}, \bibinfo{author}{Kong, R.}, \bibinfo{author}{Gordon, E.M.}, \bibinfo{author}{Laumann, T.O.}, \bibinfo{author}{Zuo, X.N.}, \bibinfo{author}{Holmes, A.J.}, \bibinfo{author}{Eickhoff, S.B.}, \bibinfo{author}{Yeo, B.T.T.}, \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{{Local-Global Parcellation of the Human Cerebral Cortex from Intrinsic Functional Connectivity {MRI}}}.
+\newblock \bibinfo{journal}{Cerebral Cortex} \bibinfo{volume}{28}, \bibinfo{pages}{3095--3114}.
+\newblock \DOIprefix\doi{10.1093/cercor/bhx179}.
+%Type = Article
+\bibitem[{Shen et~al.(2010)Shen, Wang, Liu and Hu}]{shen_early_model}
+\bibinfo{author}{Shen, H.}, \bibinfo{author}{Wang, L.}, \bibinfo{author}{Liu, Y.}, \bibinfo{author}{Hu, D.}, \bibinfo{year}{2010}.
+\newblock \bibinfo{title}{Discriminative analysis of resting-state functional connectivity patterns of schizophrenia using low dimensional embedding of {fMRI}}.
+\newblock \bibinfo{journal}{NeuroImage} \bibinfo{volume}{49}, \bibinfo{pages}{3110--3121}.
+\newblock \DOIprefix\doi{10.1016/j.neuroimage.2009.11.011}.
+%Type = Article
+\bibitem[{Simonyan et~al.(2014)Simonyan, Vedaldi and Zisserman}]{saliency}
+\bibinfo{author}{Simonyan, K.}, \bibinfo{author}{Vedaldi, A.}, \bibinfo{author}{Zisserman, A.}, \bibinfo{year}{2014}.
+\newblock \bibinfo{title}{Deep inside convolutional networks: Visualising image classification models and saliency maps} \DOIprefix\doi{10.48550/arXiv.1312.6034}.
+%Type = Article
+\bibitem[{Sundararajan et~al.(2017)Sundararajan, Taly and Yan}]{ig}
+\bibinfo{author}{Sundararajan, M.}, \bibinfo{author}{Taly, A.}, \bibinfo{author}{Yan, Q.}, \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{Axiomatic attribution for deep networks}.
+\newblock \bibinfo{journal}{arXiv} \DOIprefix\doi{10.48550/arXiv.1703.01365}.
+%Type = Article
+\bibitem[{Tamminga et~al.(2014)Tamminga, Pearlson, Keshavan, Sweeney, Clementz and Thaker}]{bsnip}
+\bibinfo{author}{Tamminga, C.A.}, \bibinfo{author}{Pearlson, G.}, \bibinfo{author}{Keshavan, M.}, \bibinfo{author}{Sweeney, J.}, \bibinfo{author}{Clementz, B.}, \bibinfo{author}{Thaker, G.}, \bibinfo{year}{2014}.
+\newblock \bibinfo{title}{{Bipolar and Schizophrenia Network for Intermediate Phenotypes: Outcomes Across the Psychosis Continuum}}.
+\newblock \bibinfo{journal}{Schizophrenia Bulletin} \bibinfo{volume}{40}, \bibinfo{pages}{S131--S137}.
+\newblock \DOIprefix\doi{10.1093/schbul/sbt179}.
+%Type = Article
+\bibitem[{Tolstikhin et~al.(2021)Tolstikhin, Houlsby, Kolesnikov, Beyer, Zhai, Unterthiner, Yung, Steiner, Keysers, Uszkoreit, Lucic and Dosovitskiy}]{mlp_mixer}
+\bibinfo{author}{Tolstikhin, I.}, \bibinfo{author}{Houlsby, N.}, \bibinfo{author}{Kolesnikov, A.}, \bibinfo{author}{Beyer, L.}, \bibinfo{author}{Zhai, X.}, \bibinfo{author}{Unterthiner, T.}, \bibinfo{author}{Yung, J.}, \bibinfo{author}{Steiner, A.}, \bibinfo{author}{Keysers, D.}, \bibinfo{author}{Uszkoreit, J.}, \bibinfo{author}{Lucic, M.}, \bibinfo{author}{Dosovitskiy, A.}, \bibinfo{year}{2021}.
+\newblock \bibinfo{title}{{MLP}-mixer: An all-{MLP} architecture for vision}.
+\newblock \bibinfo{journal}{arXiv} \DOIprefix\doi{10.48550/arXiv.2105.01601}.
+%Type = Article
+\bibitem[{Valliani et~al.(2019)Valliani, Ranti and Oermann}]{dl_review}
+\bibinfo{author}{Valliani, A.A.A.}, \bibinfo{author}{Ranti, D.}, \bibinfo{author}{Oermann, E.K.}, \bibinfo{year}{2019}.
+\newblock \bibinfo{title}{Deep learning and neurology: a systematic review}.
+\newblock \bibinfo{journal}{Neurology and therapy} \bibinfo{volume}{8}, \bibinfo{pages}{351--365}.
+\newblock \DOIprefix\doi{10.1007/s40120-019-00153-8}.
+%Type = Article
+\bibitem[{{van den Heuvel} and {Hulshoff Pol}(2010)}]{fnc_overview}
+\bibinfo{author}{{van den Heuvel}, M.P.}, \bibinfo{author}{{Hulshoff Pol}, H.E.}, \bibinfo{year}{2010}.
+\newblock \bibinfo{title}{Exploring the brain network: A review on resting-state {fMRI} functional connectivity}.
+\newblock \bibinfo{journal}{European Neuropsychopharmacology} \bibinfo{volume}{20}, \bibinfo{pages}{519--534}.
+\newblock \DOIprefix\doi{10.1016/j.euroneuro.2010.03.008}.
+%Type = Article
+\bibitem[{{Van Essen} et~al.(2013){Van Essen}, Smith, Barch, Behrens, Yacoub and Ugurbil}]{hcp}
+\bibinfo{author}{{Van Essen}, D.C.}, \bibinfo{author}{Smith, S.M.}, \bibinfo{author}{Barch, D.M.}, \bibinfo{author}{Behrens, T.E.}, \bibinfo{author}{Yacoub, E.}, \bibinfo{author}{Ugurbil, K.}, \bibinfo{year}{2013}.
+\newblock \bibinfo{title}{The {WU-Minn} human connectome project: An overview}.
+\newblock \bibinfo{journal}{NeuroImage} \bibinfo{volume}{80}, \bibinfo{pages}{62--79}.
+\newblock \DOIprefix\doi{10.1016/j.neuroimage.2013.05.041}.
+%Type = Article
+\bibitem[{Vaswani et~al.(2017)Vaswani, Shazeer, Parmar, Uszkoreit, Jones, Gomez, Kaiser and Polosukhin}]{attention}
+\bibinfo{author}{Vaswani, A.}, \bibinfo{author}{Shazeer, N.}, \bibinfo{author}{Parmar, N.}, \bibinfo{author}{Uszkoreit, J.}, \bibinfo{author}{Jones, L.}, \bibinfo{author}{Gomez, A.N.}, \bibinfo{author}{Kaiser, L.}, \bibinfo{author}{Polosukhin, I.}, \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{Attention is all you need}.
+\newblock \bibinfo{journal}{arXiv} \DOIprefix\doi{10.48550/arXiv.1706.03762}.
+%Type = Article
+\bibitem[{Warren and Moustafa(2023)}]{alzheimer_rev}
+\bibinfo{author}{Warren, S.L.}, \bibinfo{author}{Moustafa, A.A.}, \bibinfo{year}{2023}.
+\newblock \bibinfo{title}{Functional magnetic resonance imaging, deep learning, and {Alz-heimer}'s disease: A systematic review}.
+\newblock \bibinfo{journal}{Journal of Neuroimaging} \bibinfo{volume}{33}, \bibinfo{pages}{5--18}.
+\newblock \DOIprefix\doi{10.1111/jon.13063}.
+%Type = Article
+\bibitem[{Yeung et~al.(2023)Yeung, Stolicyn, Buchanan, Tucker-Drob, Bastin, Luz, McIntosh, Whalley, Cox and Smith}]{age_and_sex}
+\bibinfo{author}{Yeung, H.W.}, \bibinfo{author}{Stolicyn, A.}, \bibinfo{author}{Buchanan, C.R.}, \bibinfo{author}{Tucker-Drob, E.M.}, \bibinfo{author}{Bastin, M.E.}, \bibinfo{author}{Luz, S.}, \bibinfo{author}{McIntosh, A.M.}, \bibinfo{author}{Whalley, H.C.}, \bibinfo{author}{Cox, S.R.}, \bibinfo{author}{Smith, K.}, \bibinfo{year}{2023}.
+\newblock \bibinfo{title}{Predicting sex, age, general cognition and mental health with machine learning on brain structural connectomes}.
+\newblock \bibinfo{journal}{Human Brain Mapping} \bibinfo{volume}{44}, \bibinfo{pages}{1913--1933}.
+\newblock \DOIprefix\doi{10.1002/hbm.26182}.
+%Type = Article
+\bibitem[{Ying et~al.(2021)Ying, Cai, Luo, Zheng, Ke, He, Shen and Liu}]{Graphomer}
+\bibinfo{author}{Ying, C.}, \bibinfo{author}{Cai, T.}, \bibinfo{author}{Luo, S.}, \bibinfo{author}{Zheng, S.}, \bibinfo{author}{Ke, G.}, \bibinfo{author}{He, D.}, \bibinfo{author}{Shen, Y.}, \bibinfo{author}{Liu, T.Y.}, \bibinfo{year}{2021}.
+\newblock \bibinfo{title}{Do transformers really perform bad for graph representation?}
+\newblock \bibinfo{journal}{arXiv} \DOIprefix\doi{10.48550/arXiv.2106.05234}.
+%Type = Article
+\bibitem[{Zeng et~al.(2022)Zeng, Chen, Zhang and Xu}]{linear_forecasting}
+\bibinfo{author}{Zeng, A.}, \bibinfo{author}{Chen, M.}, \bibinfo{author}{Zhang, L.}, \bibinfo{author}{Xu, Q.}, \bibinfo{year}{2022}.
+\newblock \bibinfo{title}{Are transformers effective for time series forecasting?}
+\newblock \bibinfo{journal}{arXiv} \DOIprefix\doi{10.48550/arXiv.2205.13504}.
+%Type = Article
+\bibitem[{Çetin et~al.(2014)Çetin, Christensen, Abbott, Stephen, Mayer, Cañive, Bustillo, Pearlson and Calhoun}]{cobre}
+\bibinfo{author}{Çetin, M.S.}, \bibinfo{author}{Christensen, F.}, \bibinfo{author}{Abbott, C.C.}, \bibinfo{author}{Stephen, J.M.}, \bibinfo{author}{Mayer, A.R.}, \bibinfo{author}{Cañive, J.M.}, \bibinfo{author}{Bustillo, J.R.}, \bibinfo{author}{Pearlson, G.D.}, \bibinfo{author}{Calhoun, V.D.}, \bibinfo{year}{2014}.
+\newblock \bibinfo{title}{Thalamus and posterior temporal lobe show greater inter-network connectivity at rest and across sensory paradigms in schizophrenia}.
+\newblock \bibinfo{journal}{NeuroImage} \bibinfo{volume}{97}, \bibinfo{pages}{117--126}.
+\newblock \DOIprefix\doi{10.1016/j.neuroimage.2014.04.009}.
+
+\end{thebibliography}
